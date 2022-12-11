@@ -4,7 +4,8 @@
 * stas3231@gmail.com
 * +48733298387
 
-### My goal is to become a specialist in frond-end development. Currently I don't have work experience, I am studying in RS School to gain as much knowledge as I can.
+### Information about myself
+* My goal is to become a specialist in frond-end development. Currently I don't have work experience, I am studying in RS School to gain as much knowledge as I can.
 
 #### Skills:
 * HTML
